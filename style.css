@@ -1,5 +1,5 @@
 img {
-    --s: min(50vw,360px); /* size control */
+    --s: min(50vw,360px);
     width: var(--s);
     aspect-ratio: 1;
     object-fit: cover;
